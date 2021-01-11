@@ -1,0 +1,15 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "build",
+            "problemMatcher": [
+                "$tsc-watch"
+            ],
+            "group": "build",
+            "label": "npm: build",
+            "detail": "react-scripts build",
+            "isBackground": true
+        }
+    ]
+}
